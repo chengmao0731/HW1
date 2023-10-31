@@ -4,5 +4,5 @@
 /**
  * 
  */
-module HW1 {
+module HW2 {
 }
